@@ -10,3 +10,5 @@ All the data get from https://www.weatheronline.co.nz/weather/maps/city and http
 
 All the models and techniques are learnt from Class and Lab.
 Partial command of code in neural network is learnt from https://github.com/hunkim/DeepLearningZeroToAll
+& https://pythonprogramming.net/tensorflow-neural-network-session-machine-learning-tutorial/
+& https://medium.com/mlreview/a-simple-deep-learning-model-for-stock-price-prediction-using-tensorflow-30505541d877
