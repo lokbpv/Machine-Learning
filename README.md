@@ -8,3 +8,5 @@ database1_csv.csv is a complete data, and database2_csv.csv is a partial data fo
 
 All the data get from https://www.weatheronline.co.nz/weather/maps/city and http://climate.weather.gc.ca/climate_data/daily_data_e.html?StationID=42967&timeframe=2&StartYear=1840&EndYear=2017&Day=1&Year=2016&Month=9#
 
+All the models and techniques are learnt from Class and Lab.
+Partial command of code in neural network is learnt from https://github.com/hunkim/DeepLearningZeroToAll
