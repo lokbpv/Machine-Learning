@@ -12,4 +12,5 @@ Reference:
 Models and techniques learnt from Class and Lab. 
 Partial command of code in neural network is learnt from:
 1. https://github.com/hunkim/DeepLearningZeroToAll 
-2. https://pythonprogramming.net/tensorflow-neural-network-session-machine-learning-tutorial/ & https://medium.com/mlreview/a-simple-deep-learning-model-for-stock-price-prediction-using-tensorflow-30505541d877
+2. https://pythonprogramming.net/tensorflow-neural-network-session-machine-learning-tutorial/
+3. https://medium.com/mlreview/a-simple-deep-learning-model-for-stock-price-prediction-using-tensorflow-30505541d877
